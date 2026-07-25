@@ -1,3 +1,7 @@
+#include <iostream>
+
+using namespace std; 
+
 class student
 {
 
@@ -10,7 +14,7 @@ public:
     student(/* args */);
 
     void addStudent(const char* name);
-    
+
     ~student();
 };
 

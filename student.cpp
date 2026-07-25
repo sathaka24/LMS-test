@@ -2,6 +2,7 @@
 
 student::student()
 {
+    cout << "Creare Student\n";
 
 }
 
