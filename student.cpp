@@ -3,6 +3,7 @@
 student::student()
 {
     cout << "Creare Student\n";
+    cout << "Creating\n";
 
 }
 
